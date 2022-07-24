@@ -209,14 +209,16 @@ body.dark-theme {
   row-gap: 1.5rem;
 }
 
-.nav__link, .nav__logo, .nav__toggle {
-  color: var(--title-color);
+.nav__link, .nav__logo, .nav__toggle, .bxs-moon,.bx-moon {
+  color: #fff;
   font-weight: var(--font-semi-bold);
+  padding: 0 1rem;
 }
 
 .nav__toggle {
   font-size: 1.3rem;
   cursor: pointer;
+  color: #fff;
 }
 
 /* Show menu */
@@ -305,6 +307,7 @@ img{
     display: flex;
     align-items: center;
     text-align: initial;
+    margin: 2rem 0;
 }
 .home__social-name{
     writing-mode: vertical-rl;
