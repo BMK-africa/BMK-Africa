@@ -133,6 +133,9 @@ body.dark-theme {
 .bx-moon{
   color: black;
 }
+.dark-theme .header{
+  background-color:#000;
+}
 /* Loader */
 
 #loader {
@@ -226,7 +229,7 @@ body.dark-theme {
 /*=============== HEADER ===============*/
 .header {
   width: 100%;
-  background-color: #5800FF;
+  background-color: #fff;
   position: fixed;
   top: 0;
   left: 0;
@@ -271,7 +274,7 @@ body.dark-theme {
   font-weight: var(--font-semi-bold);
   padding: 0 1rem;
 }
-.nav__link{
+.nav__link, .nav__logo{
   color: #000;
 }
 .nav__toggle {
@@ -689,7 +692,14 @@ img{
     order: -1;
   }
 }
-
+@media (max-width: 768px) {
+  .header {
+    background-color: #222;
+  }
+  .nav__logo{
+    color: #fff;
+  }
+}
 @media screen and (min-width: 767px) {
   body {
     margin: 0;
