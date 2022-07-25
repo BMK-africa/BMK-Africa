@@ -152,7 +152,7 @@ body.dark-theme {
 
 .cercle {
   display: inline-block;
-  background-color: purple;
+  background-color: #000;
   height: 40px;
   width: 40px;
   border-radius: 50%;
@@ -162,7 +162,7 @@ body.dark-theme {
 }
 
 .cercle:nth-child(2) {
-  background-color: palevioletred;
+  background-color: #5800FF;
   animation-delay: 0.75s;
 }
 
@@ -529,8 +529,10 @@ img{
 
 /*=============== FOOTER ===============*/
 .footer {
-  background-color: var(--first-color-lighten);
+  /* background-color: var(--first-color-lighten); */
+  background-color: #5800FF;
   padding-bottom: 2rem;
+  color: var(--first-color);
 }
 
 .footer__container {
@@ -540,12 +542,13 @@ img{
 .footer__logo, .footer__title {
   font-size: var(--h3-font-size);
   margin-bottom: var(--mb-0-75);
+  color: var(--first-color);
 }
 
 .footer__logo {
   display: inline-block;
   font-weight: var(--font-semi-bold);
-  color: var(--title-color);
+  color: var(--first-color);
 }
 
 .footer__description, .footer__link {
@@ -558,24 +561,25 @@ img{
 }
 
 .footer__link {
-  color: var(--title-color);
+  color: var(--first-color);
 }
 
 .footer__social {
   display: flex;
   column-gap: 1.5rem;
+  color: var(--first-color);
 }
 
 .footer__social-link {
   font-size: 1.25rem;
-  color: var(--title-color);
+  color: var(--first-color);
 }
 
 .footer__copy {
   margin-top: 6rem;
   text-align: center;
   font-size: var(--smaller-font-size);
-  color: var(--text-color);
+  color: var(--first-color);
 }
 
 /*=============== SCROLL UP ===============*/
