@@ -134,7 +134,10 @@ body.dark-theme {
   color: black;
 }
 .dark-theme .header{
-  background-color:#000;
+  background-color: #222;
+}
+.dark-theme .nav__logo{
+  color: #FFF;
 }
 /* Loader */
 
