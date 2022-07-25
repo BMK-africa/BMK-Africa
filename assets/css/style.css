@@ -127,7 +127,12 @@ body.dark-theme {
 .dark-theme .footer {
   background-color: var(--container-color);
 }
-
+.dark-theme .nav__link{
+  color: #FFF;
+}
+.bx-moon{
+  color: black;
+}
 /* Loader */
 
 #loader {
@@ -261,12 +266,14 @@ body.dark-theme {
   row-gap: 1.5rem;
 }
 
-.nav__link, .nav__logo, .nav__toggle, .bxs-moon,.bx-moon {
+.nav__link, .nav__logo, .nav__toggle, .bxs-moon{
   color: #fff;
   font-weight: var(--font-semi-bold);
   padding: 0 1rem;
 }
-
+.nav__link{
+  color: #000;
+}
 .nav__toggle {
   font-size: 1.3rem;
   cursor: pointer;
