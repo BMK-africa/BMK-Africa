@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 /*=============== VARIABLES CSS ===============*/
 :root {
-    --color-secondary: #1D2063;
+    --color-secondary: #5800FF;
     --color-text: #fff; 
   --header-height: 3rem;
   --heading-font: 'Raleway';
@@ -13,7 +13,7 @@
   /*========== Colors ==========*/
   --hue: 45;
   --sat: 98%;
-  --first-color: #0f873b;
+  --first-color: #fff;
   --first-color-light: hsl(var(--hue), var(--sat), 85%);
   --first-color-lighten: hsl(var(--hue), var(--sat), 80%);
   --first-color-alt: hsl(var(--hue), var(--sat), 53%);
@@ -407,7 +407,7 @@ img{
 .button {
   display: inline-block;
   background-color: var(--first-color);
-  color: var(--container-color);
+  color: #000;
   padding: .75rem 1.5rem;
   border-radius: 3rem;
   font-weight: var(--font-semi-bold);
