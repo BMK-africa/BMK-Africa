@@ -20,6 +20,9 @@ pour tous renseignement !!!
 Telephone : +243 979 050 337
 email : info@bmk-africa.com
 
+Niveau logo:
+je viens de t'envoyer les logos mais celui de EAGK ecrit directement a la main.
+
 #footer
 -------
 nos patenaires 
