@@ -1,6 +1,6 @@
 ﻿# BMK-Africa
 ---------------
-# Presentation ( Acceuil )
+# Presentation ( Accueil )
 
 BMK-AFRICA est une entreprise bassee en republique democratique du congo.
 nous offrons des logiciels et formations adminitratifs pour vous permettre de mieux gerer vos affaires et votre quotidien .
