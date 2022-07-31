@@ -1,4 +1,4 @@
-﻿# BMK-Africa Corporate
+﻿# BMK-Africa
 ---------------
 # Presentation ( Accueil )
 
