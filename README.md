@@ -13,7 +13,7 @@ BMK Africa corporate s.a.r.l.u est une entreprise à capitaux congolais, spécia
 -------------
 BMK-AFRICA a pour vision de contribuer au developpement digitale et en management des entreprises.
 
-#contactez-nous -
+#contactez-nous 
 ---------------
 pour tous renseignement !!!
 
